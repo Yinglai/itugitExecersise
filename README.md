@@ -11,6 +11,9 @@ this is the changes from otherChange directory.......try changes
 
 itugitExecersise cahnged again.
 
+changes for stash process. 
+after stash, changed again.
+
 
 
 
