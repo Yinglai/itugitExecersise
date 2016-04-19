@@ -18,3 +18,6 @@ after stash, changed again.
 the changes for new branch newFea
 
 
+
+This is the changes made from the master branch.
+
