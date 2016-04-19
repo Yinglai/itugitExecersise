@@ -3,3 +3,6 @@ This is the part C working area.
 I just created this file. Enjoy the next steps.
 
 make some changes under the branch newFea3.
+
+make changes for stash command....
+it is here now.
