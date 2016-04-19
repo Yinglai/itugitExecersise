@@ -15,5 +15,6 @@ changes for stash process.
 after stash, changed again.
 
 
+the changes for new branch newFea
 
 
